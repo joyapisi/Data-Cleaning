@@ -188,46 +188,20 @@ A cleaned Excel workbook containing:
 * Original dataset
 * Cleaned dataset
 
-### 2. Group Report (Maximum One Page)
+### 2. Group Report done in One Paragraph
 
 The report should include:
-
-* Data quality issues identified
-* Cleaning methods used
-* Excel formulas applied
-* Corrections made
+* Corrections made on the data set
 * Challenges encountered
-
-### 3. Screenshots
-
-Include screenshots of:
-
-* Cleaned dataset
-* Summary statistics table
-
----
-
-## Presentation (Optional)
-
-Each group will present for **5 minutes** covering:
-
-1. Data issues discovered
-2. Cleaning process used
-3. Excel functions applied
-4. Key findings and insights
-
----
 
 ## Assessment Criteria
 
 | Criteria                       | Marks   |
 | ------------------------------ | ------- |
-| Data Cleaning Accuracy         | 40      |
-| Correct Use of Excel Functions | 20      |
-| Summary Statistics             | 15      |
-| Report Quality                 | 15      |
-| Presentation (Optional)        | 10      |
-| **Total**                      | **100** |
+| Data Cleaning Accuracy         | 15      |
+| Correct Use of Excel Functions | 10      |
+| Summary Statistics             | 5      |
+| **Total**                      | **30** |
 
 ---
 
@@ -237,7 +211,7 @@ Submit the following files:
 
 ```text
 GroupName_CleanedData.xlsx
-GroupName_Report.pdf
+GroupName_Report.doc
 ```
 
 Ensure all files are submitted before the deadline provided by the instructor.
