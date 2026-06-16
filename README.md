@@ -33,18 +33,44 @@ By the end of this assignment, students should be able to:
 
 Each group will receive a dataset containing student records with intentional errors.
 
-### Dataset Columns
+### Dataset csv
+``
 
-| Column            |
-| ----------------- |
-| Student Name      |
-| Email             |
-| Gender            |
-| Age               |
-| Course            |
-| Attendance (%)    |
-| Test Score        |
-| Registration Date |
+```csv
+Student Name,Email,Gender,Age,Course,Attendance %,Test Score,Registration Date
+joy phoebe,JOY@GMAIL.COM,F,28,Data Analytics,95,78,12/01/2026
+Joy Phoebe,joy@gmail.com,female,28,Data Analytics,95,78,Jan 12 2026
+Peter Maina,peter@email,Male,150,Python for Data Analysis,88,67,2026-01-15
+Mary Wanjiku,,female,24,AI Fundamentals,92,85,
+John Kamau,john.kamau@gmail.com,M,22,Data Analytics,105,90,01-20-2026
+Alice Njeri,ALICE@GMAIL.COM,Female,21,Machine Learning,89,91,2026/01/22
+alice njeri,alice@gmail.com,F,21,Machine Learning,89,91,22 Jan 2026
+David Ochieng,david@gmail.com,male,19,Python for Data Analysis,75,,2026-01-25
+Grace Atieno,grace@gmail.com,F,18,AI Fundamentals,82,73,2026-01-28
+Brian Kiptoo,brian@gmail.com,M,17,Data Analytics,-5,64,2026-01-29
+Faith Chebet,faith@gmail.com,Female,20,Machine Learning,91,88,2026-02-01
+Samuel Mwangi,samuel@gmail.com,Male,23,AI Fundamentals,87,79,2026-02-02
+Rose Akinyi,rose@gmail,Female,25,Data Analytics,94,84,2026-02-03
+Kevin Mutua,kevin@gmail.com,M,0,Python for Data Analysis,81,71,2026-02-04
+Lilian Cherotich,lilian@gmail.com,F,26,Machine Learning,90,95,04/02/2026
+Lilian Cherotich,lilian@gmail.com,F,26,Machine Learning,90,95,04/02/2026
+James Kariuki,james@gmail.com,Male,30,AI Fundamentals,85,77,2026-02-06
+Mercy Wambui,mercy@gmail.com,Female,22,Data Analytics,96,89,2026-02-07
+Tom Odhiambo,tom@gmail.com,M,24,Python for Data Analysis,78,82,07-02-2026
+Anne Nyokabi,anne@gmail.com,Female,19,Machine Learning,88,93,2026/02/08
+George Otieno, george@gmail.com ,Male,27,AI Fundamentals,92,86,February 8 2026
+Sarah Chepkemoi,sarah@gmail.com,F,200,Data Analytics,90,80,2026-02-09
+Paul Kibet,paul@gmail.com,M,21,Python for Data Analysis,83,76,2026-02-10
+Nancy Moraa,nancy@gmail.com,Female,23,Machine Learning,110,87,2026-02-11
+Dennis Kimani,dennis@gmail.com,Male,25,AI Fundamentals,89,,2026-02-12
+Beatrice Achieng,beatrice@gmail.com,F,20,Data Analytics,93,92,2026-02-13
+Victor Mwenda,victor@gmail.com,M,18,Python for Data Analysis,86,68,13/02/2026
+Cynthia Jepkosgei,cynthia@gmail.com,Female,24,Machine Learning,84,90,2026-02-14
+Mark Kiprotich,mark@gmail.com,Male,22,AI Fundamentals,79,74,2026-02-15
+Jane Naliaka,,F,21,Data Analytics,88,81,2026-02-16
+```
+
+
 
 ---
 
