@@ -31,10 +31,9 @@ By the end of this assignment, students should be able to:
 
 ## Dataset Description
 
-Each group will receive a dataset containing student records with intentional errors.
+Below is a dataset containing student records with intentional errors.
 
 ### Dataset csv
-``
 
 ```csv
 Student Name,Email,Gender,Age,Course,Attendance %,Test Score,Registration Date
