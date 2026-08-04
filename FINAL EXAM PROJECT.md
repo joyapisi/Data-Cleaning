@@ -222,7 +222,7 @@ kenya-development-analysis/
 
 - This examination is an individual assessment.
 - All submitted code must be your own work.
-- You may consult official R package documentation.
-- You should be able to explain every section of your code if requested.
+- You may consult official R package documentation or AI chatbots for your code.
+- You should be able to explain **the context** of your blocks of code if requested.
 - Any external sources used must be appropriately acknowledged.
 - Submissions that cannot be verified through the shared Posit Cloud project may receive reduced marks.
