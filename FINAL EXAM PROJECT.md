@@ -1,4 +1,4 @@
-# 🇰🇪 Final Practical Examination – Data Analytics Using R
+# 🇰🇪 Final Practical Examination
 
 ## Question One 
 # Analytics Dashboard Interpretation (6 Marks)
