@@ -228,4 +228,4 @@ kenya-development-analysis/
 - Submissions that cannot be verified through the shared Posit Cloud project may receive reduced marks.
 
 # Presentation (4 marks)
-You are required to do a presentation on Loom explaining your work in summary and submit your Loom link inside your **analysis-report.pdf**
+You are required to do a presentation on Loom explaining your work in summary and submit your [Loom link](www.loom.com) inside your **analysis-report.pdf**
