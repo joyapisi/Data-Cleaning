@@ -4,7 +4,7 @@
 
 Kenya has experienced major changes in internet access, mobile connectivity, urbanisation, employment, and economic growth. In this assignment, you will retrieve Kenyan development indicators from the **World Bank API**, clean and transform the dataset, calculate new variables, and produce advanced visualisations using R.
 
-This assignment is more challenging because it requires:
+This assignment requires:
 
 - Working with multiple indicators
 - Reshaping data
