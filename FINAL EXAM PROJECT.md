@@ -122,7 +122,7 @@ Your code should:
 
 # Question 2(b): Data Analysis and Visualisation (9 Marks)
 
-## (b) Annual Percentage Growth (3 Marks)
+## (i) Annual Percentage Growth (3 Marks)
 
 Calculate the annual percentage growth for:
 
@@ -135,7 +135,7 @@ Identify the year with the highest GDP per Capita growth.
 
 ---
 
-## (c) Create TWO Visualisations (6 Marks)
+## (ii) Create TWO Visualisations (6 Marks)
 
 Create **any two** of the following charts:
 
@@ -155,7 +155,7 @@ Each chart must include:
 
 ---
 
-# Question 2(d): Interpretation (4 Marks)
+# Question 2(c): Interpretation (4 Marks)
 
 Write a **150–200-word** analytical summary discussing:
 
