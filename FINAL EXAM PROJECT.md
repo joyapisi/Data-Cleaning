@@ -226,3 +226,6 @@ kenya-development-analysis/
 - You should be able to explain **the context** of your blocks of code if requested.
 - Any external sources used must be appropriately acknowledged.
 - Submissions that cannot be verified through the shared Posit Cloud project may receive reduced marks.
+
+# Presentation (4 marks)
+You are required to do a presentation on Loom explaining your work in summary and submit your Loom link inside your **analysis-report.pdf**
