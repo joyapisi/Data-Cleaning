@@ -22,14 +22,19 @@ Order_ID,Date,Product_Category,Product_Name,Quantity,Price,Customer_City,Revenue
 014,2024-01-17,Wallpaper,Concrete Wallpaper,1,2100,Eldoret,2100
 015,2024-01-18,LED Mirror,Square LED Mirror,1,,Kisumu,
 ```
-
-### R Codes 
-#### Histogram (Distribution of Product Prices)
-Please note that sales_clean is the name of your CSV file and can be replaced with the correct name that you named your CSV file with. 
-
+### Installing Packages Needed
+```R
+install. packages("ggplot2")
+```
+### Loading Packages Needed
 ```R
 library(ggplot2)
+```
+### R Codes 
+#### Histogram (Distribution of Product Prices)
+Please note that sales_clean is the name of your CSV file and can be replaced with the correct name you gave your own file. 
 
+```R
 ggplot(sales_clean, aes(x = Price)) +
   geom_histogram(binwidth = 500, fill = "skyblue", color = "black") +
   labs(
@@ -41,9 +46,6 @@ ggplot(sales_clean, aes(x = Price)) +
 ```
 #### Pie Chart (Products Sold by Category)
 ```R
-library(dplyr)
-library(ggplot2)
-
 pie_data <- sales_clean %>%
   group_by(Product_Category) %>%
   summarise(Total_Quantity = sum(Quantity, na.rm = TRUE))
@@ -58,19 +60,31 @@ ggplot(pie_data, aes(x = "", y = Total_Quantity, fill = Product_Category)) +
   theme_void()
 ```
 # Visualising Data From WDI
+
 ### Installing Packages Needed
 ```R
 install. packages(c("tidyverse", "lubridate", "scales"))
 ```
+
+```R
+install.packages("WDI")
+```
 ### Loading Packages Needed
 ```R
 library(tidyverse)
+```
+
+```R
 library(lubridate)
+```
+```R
 library(scales)
+```
+```R
+library(WDI)
 ```
 
 #### Drawing a Line Chart
-library(ggplot2)
 
 ```R
 ggplot(kenya, aes(x = year, y = GDP)) +
